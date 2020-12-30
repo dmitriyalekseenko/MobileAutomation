@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99fb8fbb-24f6-40ed-b40d-df388612c01f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/MobileAutomation/MainClass.class" afterPath="$PROJECT_DIR$/out/production/MobileAutomation/MainClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MobileAutomation/MainClassTest.class" afterPath="$PROJECT_DIR$/out/production/MobileAutomation/MainClassTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileAutomation/MainClass.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/MainClass.java" afterPath="$PROJECT_DIR$/src/MainClass.java" />
       <change beforePath="$PROJECT_DIR$/src/MainClassTest.java" afterPath="$PROJECT_DIR$/src/MainClassTest.java" />
     </list>
@@ -21,11 +19,13 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="356">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#243#244#0" expanded="true" />
                 <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,8 +34,8 @@
       <file leaf-file-name="MainClassTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="178">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -295,35 +295,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainClassTest - 2020.12.30 at 16h 06m 35s.xml">
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 36m 36s.xml">
       <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest - 2020.12.30 at 16h 06m 53s.xml">
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 37m 55s.xml">
       <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest - 2020.12.30 at 16h 07m 10s.xml">
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 38m 15s.xml">
       <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_myHomeTest1 - 2020.12.30 at 01h 02m 08s.xml">
-      <configuration name="MainClassTest.myHomeTest1" configurationId="AndroidJUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 38m 25s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_myHomeTest1 - 2020.12.30 at 01h 02m 19s.xml">
-      <configuration name="MainClassTest.myHomeTest1" configurationId="AndroidJUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 41m 46s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_myHomeTest1 - 2020.12.30 at 15h 52m 41s.xml">
-      <configuration name="MainClassTest.myHomeTest1" configurationId="AndroidJUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 42m 02s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_myHomeTest1 - 2020.12.30 at 15h 56m 34s.xml">
-      <configuration name="MainClassTest.myHomeTest1" configurationId="AndroidJUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 42m 26s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_testGetClassNumber - 2020.12.30 at 15h 57m 28s.xml">
-      <configuration name="MainClassTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 42m 47s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_testGetClassNumber - 2020.12.30 at 15h 58m 04s.xml">
-      <configuration name="MainClassTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 44m 25s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainClassTest_testGetClassNumber - 2020.12.30 at 15h 58m 20s.xml">
-      <configuration name="MainClassTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainClassTest - 2020.12.30 at 17h 45m 24s.xml">
+      <configuration name="MainClassTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -338,7 +338,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -373,6 +373,8 @@
           <folding>
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -394,6 +396,8 @@
           <folding>
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -410,19 +414,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="356">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="178">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

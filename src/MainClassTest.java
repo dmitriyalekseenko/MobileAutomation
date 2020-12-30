@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import static java.lang.System.in;
+
 public class MainClassTest extends MainClass
 {
     MainClass testGetLocalNumber = new MainClass();
@@ -22,6 +24,22 @@ public class MainClassTest extends MainClass
         if (b <= 45) {
             Assert.fail("Initial value is not more than 45 ");
         }
+    }
+
+    MainClass testGetClassString = new MainClass();
+
+    @Test
+    public void testGetClassString()
+    {
+        String c = testGetClassString.getClassString();
+        String substring = "Hello";
+        if (c.toLowerCase().contains(substring.toLowerCase()))
+        {
+
+        } else {
+            Assert.fail("The original phrase does not contain 'Hello' or 'hello'");
+        }
+
     }
 
 }

@@ -18,5 +18,18 @@ public class MainClass
     }
 
 
+    public String getClassString ()
+    {
+        String c = class_string();
+        return c;
+
+    }
+
+    private String class_string()
+    {
+        return ("Hello, world");
+    }
+
+
 
 }
