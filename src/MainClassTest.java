@@ -12,4 +12,16 @@ public class MainClassTest extends MainClass
             Assert.fail("GetLocalNumber !=14");
         }
     }
+
+
+    MainClass testGetClassNumber = new MainClass();
+
+    @Test
+    public void testGetClassNumber() {
+        int b = testGetClassNumber.getClassNumber();
+        if (b <= 45) {
+            Assert.fail("Initial value is not more than 45 ");
+        }
+    }
+
 }
